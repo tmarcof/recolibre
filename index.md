@@ -1,7 +1,7 @@
 ---
 title: "Mes autres logiciels TEST"
-order: 0
-in_menu: true
+order: 3
+in_menu: false
 ---
 C'est le moment de lister vos logiciels libres préférés, pour les recommander autour de vous !
 
