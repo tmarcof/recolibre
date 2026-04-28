@@ -7,7 +7,8 @@ C'est le moment de lister vos logiciels libres préférés, pour les recommander
 
 Retrouvez les détails sur [https://beta.framalibre.org/mini-site](https://beta.framalibre.org/mini-site)
 
-Cryptage:
+# Cryptage:
+
 
   <article class="framalibre-notice">
     <div>
@@ -24,11 +25,11 @@ Cryptage:
   </article>
 
 
-Un exemple ci-dessous :
+## En test 
 
 # Mes logiciels libres pour randonner
 
-## Pour ce que j'aurai filmé
+Pour ce que j'aurai filmé
 
 <article class="framalibre-notice">
   <div>
